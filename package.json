@@ -1,0 +1,17 @@
+{
+  "name": "project-planner",
+  "version": "1.0.0",
+  "description": "Task & Resource Planner - macOS Sonoma Edition",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "planner",
+    "task-manager",
+    "gantt",
+    "macos-ui"
+  ],
+  "author": "",
+  "license": "MIT"
+}
